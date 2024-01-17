@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Mi segunda publicación en el blog
 author: Alumno de Astro - JesusRM
 description: "Después de aprender un poco de Astro, ¡no podía parar!"
@@ -8,4 +9,5 @@ image:
 pubDate: 2024-01-01
 tags: ["astro", "bloguear", "aprender en público", "éxitos"]
 ---
+
 Después de una exitosa primera semana aprendiendo Astro, decidí probar un poco más. Escribí e importé un pequeño componente de memoria.
