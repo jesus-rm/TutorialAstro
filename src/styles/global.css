@@ -20,6 +20,18 @@ h1 {
     font-size: 2.5rem;
 }
 
+/* estilos para tema oscuro */
+
+html.dark {
+    background-color: #17181c;
+    color: #fff;
+}
+
+.dark .nav-links a {
+    color: #fff;
+}
+
+
 /* estilos de la barra de navegación*/
 
 .hamburger {
